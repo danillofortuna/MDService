@@ -1,0 +1,2 @@
+# MDService
+MyDeedWebService.war
